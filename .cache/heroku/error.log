@@ -1,0 +1,36 @@
+2020-04-17T20:05:43.836Z Error: Missing required flag:
+2020-04-17T20:05:43.836Z  -a, --app APP  app to run command against
+2020-04-17T20:05:43.836Z See more help with --help
+2020-04-17T20:05:43.836Z     at validateFlags (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:53:27)
+2020-04-17T20:05:43.836Z     at Object.validate (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:58:5)
+2020-04-17T20:05:43.836Z     at Object.parse (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/index.js:26:7)
+2020-04-17T20:05:43.836Z     at ConfigGet.parse (/usr/local/lib/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2020-04-17T20:05:43.836Z     at ConfigGet.run (/usr/local/lib/heroku/node_modules/@heroku-cli/plugin-config/lib/commands/config/get.js:7:38)
+2020-04-17T20:05:43.836Z     at ConfigGet._run (/usr/local/lib/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2020-04-17T20:07:15.883Z Error: Missing required flag:
+2020-04-17T20:07:15.883Z  -a, --app APP  app to run command against
+2020-04-17T20:07:15.883Z See more help with --help
+2020-04-17T20:07:15.883Z     at validateFlags (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:53:27)
+2020-04-17T20:07:15.883Z     at Object.validate (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:58:5)
+2020-04-17T20:07:15.883Z     at Object.parse (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/index.js:26:7)
+2020-04-17T20:07:15.883Z     at V5.parse (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:74:41)
+2020-04-17T20:07:15.883Z     at V5.run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2020-04-17T20:07:15.883Z     at V5._run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:34:31)
+2020-04-17T20:07:56.572Z Error: Missing required flag:
+2020-04-17T20:07:56.572Z  -a, --app APP  app to run command against
+2020-04-17T20:07:56.572Z See more help with --help
+2020-04-17T20:07:56.572Z     at validateFlags (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:53:27)
+2020-04-17T20:07:56.572Z     at Object.validate (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:58:5)
+2020-04-17T20:07:56.572Z     at Object.parse (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/index.js:26:7)
+2020-04-17T20:07:56.572Z     at V5.parse (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:74:41)
+2020-04-17T20:07:56.572Z     at V5.run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2020-04-17T20:07:56.572Z     at V5._run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:34:31)
+2020-04-17T20:08:21.104Z Error: Missing required flag:
+2020-04-17T20:08:21.104Z  -a, --app APP  app to run command against
+2020-04-17T20:08:21.104Z See more help with --help
+2020-04-17T20:08:21.104Z     at validateFlags (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:53:27)
+2020-04-17T20:08:21.104Z     at Object.validate (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:58:5)
+2020-04-17T20:08:21.104Z     at Object.parse (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/index.js:26:7)
+2020-04-17T20:08:21.104Z     at V5.parse (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:74:41)
+2020-04-17T20:08:21.104Z     at V5.run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2020-04-17T20:08:21.104Z     at V5._run (/usr/local/lib/heroku/node_modules/@oclif/plugin-legacy/node_modules/@oclif/command/lib/command.js:34:31)
